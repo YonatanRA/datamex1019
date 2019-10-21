@@ -1,8 +1,6 @@
 # Bash exercices
 
 
-
-
 ## Intro
 
 Vamos a practicar con `bash`, un lenguaje de programación que se ejecuta en la línea de comandos!
